@@ -73,7 +73,6 @@ nest-asyncio==1.5.6
 networkx==2.6.3
 notebook==6.5.2
 notebook_shim==0.2.2
---no-cache-dir numpy==1.18.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==22.0
@@ -136,3 +135,4 @@ widgetsnbextension==4.0.9
 wincertstore==0.2
 wrapt==1.15.0
 zipp==3.11.0
+numpy
