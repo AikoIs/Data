@@ -15,4 +15,4 @@ pip install -r requirements.txt
 - `PART 1 - Creating, Analysing the Diabetic Patients Dataset`
 - `PART 2 - Analysis, EDA of Patients and Note Events Data.ipynb`
 - `PART 3 - Analysis, EDA of Admissions and Note Events Data.ipynb`
-- `PART 4 - Merge Data for Modelling-Final (ML MODELS).ipynb` - if you want to open this big file, you need to use https://app.reviewnb.com . Because GitHub has a rule that the files to be displayed must be less than 1MB. Since this file is 98MB. You will have to use a third-party tool to view it. You can use this link https://app.reviewnb.com/AikoIs/Data/blob/main/PART%204%20%20-%20Merge%20Data%20for%20Modelling-Final%20%20(DL%20MODELS).ipynb, you need to be logged in to open this file to view it. The authors are looking for other possible options to display this file, but so far there is no suitable tool. Third party recommendations are welcome if such tools are available. 
+- `PART 4 - Merge Data for Modelling-Final (ML MODELS).ipynb` 
